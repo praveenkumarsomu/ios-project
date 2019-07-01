@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ApplicationProperties</key>
+	<dict>
+		<key>ApplicationPath</key>
+		<string>Applications/SampleWebview.app</string>
+		<key>CFBundleIdentifier</key>
+		<string>com.aleph.central</string>
+		<key>CFBundleShortVersionString</key>
+		<string>1.0</string>
+		<key>CFBundleVersion</key>
+		<string>1</string>
+		<key>SigningIdentity</key>
+		<string>iPhone Developer: Praveenkumar Somu (NWRB5B9VQ3)</string>
+		<key>Team</key>
+		<string>J53NLM32CH</string>
+	</dict>
+	<key>ArchiveVersion</key>
+	<integer>2</integer>
+	<key>CreationDate</key>
+	<date>2019-06-27T02:29:29Z</date>
+	<key>Name</key>
+	<string>SampleWebview</string>
+	<key>SchemeName</key>
+	<string>SampleWebview</string>
+</dict>
+</plist>
